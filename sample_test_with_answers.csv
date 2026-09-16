@@ -1,0 +1,6 @@
+id,prompt,A,B,C,D,E,answer
+0,What is the primary function of mitochondria?,Produce ATP,Synthesize proteins,Store DNA,Transport lipids,Break down waste,A
+1,Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn,Mercury,B
+2,What is the chemical symbol for gold?,Ag,Au,Pb,Fe,Cu,B
+3,Which force keeps planets in orbit around the sun?,Electromagnetic force,Strong nuclear force,Gravity,Weak nuclear force,Friction,C
+4,What is the powerhouse of the cell?,Nucleus,Ribosome,Mitochondria,Endoplasmic reticulum,Golgi apparatus,C
